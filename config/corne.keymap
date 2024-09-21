@@ -3,13 +3,13 @@
 
 /* map Zen's extra keys */
 #define X_LH  &kp ESC      // thumb row, left
-#define X_RH  &smart_mouse  // thumb row, right
-#define X_LT  &kp ESC       // top row, left
-#define X_LM  &kp TAB     // middle row, left
+#define X_RH  &smart_shft  // thumb row, right
+#define X_LT  &kp TAB       // top row, left
+#define X_LM  &kp LSHFT     // middle row, left
 #define X_LB  &kp LCTRL     // bottom row, left
 #define X_RT  &kp BACKSPACE // top row, right
 #define X_RM  &kp APOS      // middle row, right
-#define X_RB  &kp ENTER     // bottom row, right
+#define X_RB  &kp RSHFT     // bottom row, right
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
 
