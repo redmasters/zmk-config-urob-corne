@@ -3,7 +3,7 @@
 
 /* map Zen's extra keys */
 #define X_LH  &kp ESC      // thumb row, left
-#define X_RH  &smart_shft  // thumb row, right
+#define X_RH  &smart_mouse  // thumb row, right
 #define X_LT  &kp TAB       // top row, left
 #define X_LM  &kp LSHFT     // middle row, left
 #define X_LB  &kp LCTRL     // bottom row, left
