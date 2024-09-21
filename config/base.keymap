@@ -225,9 +225,9 @@ ZMK_LAYER(base,
 //├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤
     X_LM     &kp A        &hml LSHFT S   &hml LCTRL D  &hml LALT F  &hml LGUI G      X_MM     &hmr LGUI H   &hmr LALT J  &hmr LCTRL K  &hmr LSHFT L   &kp SEMICOLON   X_RM
 //├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤ ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤ ├──────┤
-    X_LB     &kp Z         &kp X         &kp C         &kp V         &kp B           X_MB     &kp N         &kp M         &comma_morph  &dot_morph    &qexcl          X_RB
+    X_LB     &kp Z         &kp X         &kp C         &kp V         &kp B           X_MB     &kp N         &kp M         &comma_morph  &dot_morph    &kp FSLH          X_RB
 //├──────┤ ╰─────────────┼─────────────┴─────────────┼─────────────┼─────────────┤ ├──────┤ ├─────────────┼─────────────┼─────────────┴───────────────────────────╯ ├──────┤
-    X_LH                                           &smart_shft NAV 0 &lt FN RET      X_MH     SMART_NUM    &lt_spc                                                 X_RH
+    X_LH                                               &lt_spc NAV 0 &lt FN RET      X_MH     SMART_NUM     &smart_shft                                               X_RH
 //╰──────╯                                           ╰─────────────┴─────────────╯ ╰──────╯ ╰─────────────┴─────────────╯                                           ╰──────╯
 )
 
